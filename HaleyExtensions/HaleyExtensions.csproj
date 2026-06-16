@@ -7,7 +7,7 @@
 		  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		  <Description>Lightweight library with common useful extensions.</Description>
 		  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-		  <PackageProjectUrl>$(ProjectBaseUrl)Extensions</PackageProjectUrl>
+		  <PackageProjectUrl>$(ProjectBaseUrlwhatExtensions</PackageProjectUrl>
 		  <IncludeSymbols>true</IncludeSymbols>
 		  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
 		  <PackageIcon>Haley.png</PackageIcon>
